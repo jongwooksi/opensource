@@ -1,0 +1,5 @@
+https://drive.google.com/file/d/1sR5PNAEWPmWGyEBYtprura4LsV_IUsYQ/view
+
+
+00000.png ~ 00099.png -> train 
+00100.png ~ 00139.png -> test 
